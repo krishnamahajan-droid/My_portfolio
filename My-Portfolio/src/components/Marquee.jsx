@@ -1,4 +1,4 @@
-import { marqueeItems } from "../data";
+import { marqueeItems } from "../Data";
 
 export default function Marquee() {
   // We repeat the list twice so the CSS animation can scroll forever

@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { navLinks } from "../data";
+import { navLinks } from "../Data";
 
 export default function Navbar() {
   // menuOpen tracks whether the mobile hamburger menu is open or closed.

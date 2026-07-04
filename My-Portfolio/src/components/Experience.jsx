@@ -14,7 +14,7 @@ export default function Experience() {
             <span className="co">Decode Labs</span>
             <p>
               Built and deployed multiple Python projects using core concepts such as functions, loops, conditional statements, file handling, and user input validation.
-              Strengthened software development fundamentals, analytical thinking, and problem-solving skills through practical coding assignments.
+              Strengthened software development fundamentals, analytical thinking, and problem-solving skills through practical coding assignments..
             </p>
             <div className="exp-tags">
               <span>Python</span>
