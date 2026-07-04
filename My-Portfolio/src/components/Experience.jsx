@@ -10,16 +10,16 @@ export default function Experience() {
         <div className="exp-card">
           <span className="exp-when">Internship</span>
           <div className="exp-body">
-            <h3>Software / Web Development Intern</h3>
+            <h3>Python Developer Intern</h3>
             <span className="co">Decode Labs</span>
             <p>
-              Worked hands-on with real frontend workflows — translating designs into functioning
-              UI, collaborating with version control, and shipping deployable work.
+              Built and deployed multiple Python projects using core concepts such as functions, loops, conditional statements, file handling, and user input validation.
+              Strengthened software development fundamentals, analytical thinking, and problem-solving skills through practical coding assignments.
             </p>
             <div className="exp-tags">
-              <span>React.js</span>
-              <span>JavaScript</span>
-              <span>Git / GitHub</span>
+              <span>Python</span>
+              <span>Object-Oriented Programming</span>
+              <span>Database Integration</span>
               <span>UI Implementation</span>
             </div>
           </div>
